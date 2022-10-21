@@ -1,5 +1,5 @@
 # Expresso
-
+Project part of Codecademy's Back-End Engineer Career Path
 ## Project Overview
 
 In this capstone project, you will build all of the routing and database logic for an internal tool for a coffee shop called Expresso.
